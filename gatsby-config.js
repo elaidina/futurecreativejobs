@@ -1,30 +1,30 @@
 /* eslint-disable @typescript-eslint/camelcase */
 module.exports = {
   siteMetadata: {
-    siteTitle: 'Chronoblog Starter',
-    siteDescription: 'Starter for Gatsby Theme Chronoblog',
+    siteTitle: 'Future creative jobs',
+    siteDescription: 'Best creative jobs for the future',
     siteImage: '/banner.png', // main image of the site for metadata
-    siteUrl: 'https://chronoblog.netlify.com/',
+    siteUrl: 'https://futurecreativejobs.netlify.com/',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Site Author', // for example - 'Ivan Ganev'
-    authorDescription: 'short author description', // short text about the author
+    author: 'elaidina', // for example - 'Ivan Ganev'
+    authorDescription: 'always learning and creating stuff', // short text about the author
     avatar: '/avatar.jpg',
     twitterSite: '', // website account on twitter
     twitterCreator: '', // creator account on twitter
     social: [
       {
         icon: `twitter`,
-        url: `https://twitter.com/ganevru`
+        url: `https://twitter.com/elaidina`
       },
       {
         icon: `github`,
-        url: `https://github.com/Ganevru/gatsby-theme-chronoblog`
+        url: `https://github.com/elaidina`
       },
       {
         icon: `node-js`,
-        url: `https://www.npmjs.com/package/gatsby-theme-chronoblog`
+        url: `https://www.npmjs.com`
       }
     ]
   },
