@@ -3,7 +3,7 @@ title: Video creator
 cover: ./image.jpg
 date: 2019-12-12
 description: Capturing the life.
-tags: ['video creator']
+tags: ['video creator', 'jobs']
 ---
 
 ## Video creator

@@ -1,9 +1,9 @@
 ---
-title: Web developerGraphic designer
+title: Graphic designer
 cover: ./image.jpg
 date: 2019-12-12
 description: Shaping the style.
-tags: ['graphic designer']
+tags: ['graphic designer', 'jobs']
 ---
 
 ## Graphic designer

@@ -3,7 +3,7 @@ title: Illustrator
 cover: ./image.jpg
 date: 2019-12-12
 description: Drawing the world.
-tags: ['illustrator']
+tags: ['illustrator', 'jobs']
 ---
 
 ## Illustrator

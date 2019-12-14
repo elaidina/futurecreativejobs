@@ -3,7 +3,7 @@ title: Mobile developer
 cover: ./image.jpg
 date: 2019-12-12
 description: Developing the apps.
-tags: ['mobile developer']
+tags: ['mobile developer', 'jobs']
 ---
 
 ## Mobile developer

@@ -3,7 +3,7 @@ title: Web developer
 cover: ./image.jpg
 date: 2019-12-12
 description: Creating the internet.
-tags: ['web developer']
+tags: ['web developer', 'jobs']
 ---
 
 ## Web developer
