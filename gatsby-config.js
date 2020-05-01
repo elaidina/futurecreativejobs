@@ -51,9 +51,9 @@ module.exports = {
       resolve: 'gatsby-plugin-iubenda-cookie-footer',
       options: {
         iubendaOptions: {
-          lang: 'en',
-          siteId: 1565428,
-          cookiePolicyId: 63938658
+          lang: 'en'
+          // siteId: 1565428,
+          // cookiePolicyId: 63938658
         }
       }
     },
